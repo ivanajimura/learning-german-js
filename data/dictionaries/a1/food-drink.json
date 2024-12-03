@@ -1,0 +1,129 @@
+[
+    {
+      "word": "Apfel",
+      "translation": "apple",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Brot",
+      "translation": "bread",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Wasser",
+      "translation": "water",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Milch",
+      "translation": "milk",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Kaffee",
+      "translation": "coffee",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Fisch",
+      "translation": "fish",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Ei",
+      "translation": "egg",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "essen",
+      "translation": "to eat",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat gegessen",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "trinken",
+      "translation": "to drink",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat getrunken",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "kochen",
+      "translation": "to cook",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat gekocht",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "lecker",
+      "translation": "delicious",
+      "partOfSpeech": "adjective",
+      "opposite": "eklig",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "eklig",
+      "translation": "disgusting",
+      "partOfSpeech": "adjective",
+      "opposite": "lecker",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Ich hätte gern einen Kaffee.",
+      "translation": "I would like a coffee.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Kann ich die Speisekarte haben?",
+      "translation": "Can I have the menu?",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Das schmeckt gut.",
+      "translation": "That tastes good.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Ich mag keinen Fisch.",
+      "translation": "I don't like fish.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Möchtest du etwas trinken?",
+      "translation": "Would you like something to drink?",
+      "partOfSpeech": "phrase",
+      "register": "informal",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Guten Appetit!",
+      "translation": "Enjoy your meal!",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    }
+]
+  

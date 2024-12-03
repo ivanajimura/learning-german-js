@@ -1,0 +1,172 @@
+[
+      {
+        "word": "Familie",
+        "translation": "family",
+        "partOfSpeech": "noun",
+        "gender": "die",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "Vater",
+        "translation": "father",
+        "partOfSpeech": "noun",
+        "gender": "der",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "Mutter",
+        "translation": "mother",
+        "partOfSpeech": "noun",
+        "gender": "die",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "Eltern",
+        "translation": "parents",
+        "partOfSpeech": "noun",
+        "gender": "die",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "Kind",
+        "translation": "child",
+        "partOfSpeech": "noun",
+        "gender": "das",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "Bruder",
+        "translation": "brother",
+        "partOfSpeech": "noun",
+        "gender": "der",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "Schwester",
+        "translation": "sister",
+        "partOfSpeech": "noun",
+        "gender": "die",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "Freund",
+        "translation": "friend (male)",
+        "partOfSpeech": "noun",
+        "gender": "der",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "Freundin",
+        "translation": "friend (female)",
+        "partOfSpeech": "noun",
+        "gender": "die",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "Nachbar",
+        "translation": "neighbor (male)",
+        "partOfSpeech": "noun",
+        "gender": "der",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "Nachbarin",
+        "translation": "neighbor (female)",
+        "partOfSpeech": "noun",
+        "gender": "die",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "lieben",
+        "translation": "to love",
+        "partOfSpeech": "verb",
+        "perfektForm": "hat geliebt",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "kennen",
+        "translation": "to know (someone)",
+        "partOfSpeech": "verb",
+        "perfektForm": "hat gekannt",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "heiraten",
+        "translation": "to marry",
+        "partOfSpeech": "verb",
+        "perfektForm": "hat geheiratet",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "nett",
+        "translation": "nice",
+        "partOfSpeech": "adjective",
+        "opposite": "böse",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "böse",
+        "translation": "angry, mean",
+        "partOfSpeech": "adjective",
+        "opposite": "nett",
+        "cefrLevel": "A1"
+      }
+    ,
+      {
+        "word": "Hast du Geschwister?",
+        "translation": "Do you have siblings?",
+        "partOfSpeech": "phrase",
+        "register": "informal",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "Haben Sie Geschwister?",
+        "translation": "Do you have siblings?",
+        "partOfSpeech": "phrase",
+        "register": "formal",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "Das ist mein Vater.",
+        "translation": "This is my father.",
+        "partOfSpeech": "phrase",
+        "register": "neutral",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "Das ist meine Mutter.",
+        "translation": "This is my mother.",
+        "partOfSpeech": "phrase",
+        "register": "neutral",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "Ich habe eine Schwester.",
+        "translation": "I have a sister.",
+        "partOfSpeech": "phrase",
+        "register": "neutral",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "Ich habe einen Bruder.",
+        "translation": "I have a brother.",
+        "partOfSpeech": "phrase",
+        "register": "neutral",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "Das ist mein Freund.",
+        "translation": "This is my boyfriend/friend (male).",
+        "partOfSpeech": "phrase",
+        "register": "neutral",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "Das ist meine Freundin.",
+        "translation": "This is my girlfriend/friend (female).",
+        "partOfSpeech": "phrase",
+        "register": "neutral",
+        "cefrLevel": "A1"
+      }
+]
+  

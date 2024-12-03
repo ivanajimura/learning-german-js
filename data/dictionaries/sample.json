@@ -1,0 +1,213 @@
+[
+    {
+      "word": "Haus",
+      "translation": "house",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Apfel",
+      "translation": "apple",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Buch",
+      "translation": "book",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Mädchen",
+      "translation": "girl",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Blume",
+      "translation": "flower",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Hund",
+      "translation": "dog",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Freund",
+      "translation": "friend",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Auto",
+      "translation": "car",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Sonne",
+      "translation": "sun",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Tisch",
+      "translation": "table",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "groß",
+      "translation": "big",
+      "partOfSpeech": "adjective",
+      "opposite": "klein",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "klein",
+      "translation": "small",
+      "partOfSpeech": "adjective",
+      "opposite": "groß",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "schnell",
+      "translation": "fast",
+      "partOfSpeech": "adjective",
+      "opposite": "langsam",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "langsam",
+      "translation": "slow",
+      "partOfSpeech": "adjective",
+      "opposite": "schnell",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "alt",
+      "translation": "old",
+      "partOfSpeech": "adjective",
+      "opposite": "jung",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "jung",
+      "translation": "young",
+      "partOfSpeech": "adjective",
+      "opposite": "alt",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "kalt",
+      "translation": "cold",
+      "partOfSpeech": "adjective",
+      "opposite": "warm",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "warm",
+      "translation": "warm",
+      "partOfSpeech": "adjective",
+      "opposite": "kalt",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "gut",
+      "translation": "good",
+      "partOfSpeech": "adjective",
+      "opposite": "schlecht",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "schlecht",
+      "translation": "bad",
+      "partOfSpeech": "adjective",
+      "opposite": "gut",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "gehen",
+      "translation": "to go",
+      "partOfSpeech": "verb",
+      "perfektForm": "ist gegangen",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "kommen",
+      "translation": "to come",
+      "partOfSpeech": "verb",
+      "perfektForm": "ist gekommen",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "sehen",
+      "translation": "to see",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat gesehen",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "machen",
+      "translation": "to do",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat gemacht",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "essen",
+      "translation": "to eat",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat gegessen",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "schreiben",
+      "translation": "to write",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat geschrieben",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "lesen",
+      "translation": "to read",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat gelesen",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "sprechen",
+      "translation": "to speak",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat gesprochen",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "haben",
+      "translation": "to have",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat gehabt",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "sein",
+      "translation": "to be",
+      "partOfSpeech": "verb",
+      "perfektForm": "ist gewesen",
+      "cefrLevel": "A1"
+    }
+  ]
+  

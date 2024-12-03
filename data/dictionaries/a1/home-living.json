@@ -1,0 +1,200 @@
+[
+      {
+        "word": "Haus",
+        "translation": "house",
+        "partOfSpeech": "noun",
+        "gender": "das",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "Wohnung",
+        "translation": "apartment",
+        "partOfSpeech": "noun",
+        "gender": "die",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "Zimmer",
+        "translation": "room",
+        "partOfSpeech": "noun",
+        "gender": "das",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "Küche",
+        "translation": "kitchen",
+        "partOfSpeech": "noun",
+        "gender": "die",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "Badezimmer",
+        "translation": "bathroom",
+        "partOfSpeech": "noun",
+        "gender": "das",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "Wohnzimmer",
+        "translation": "living room",
+        "partOfSpeech": "noun",
+        "gender": "das",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "Schlafzimmer",
+        "translation": "bedroom",
+        "partOfSpeech": "noun",
+        "gender": "das",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "Bett",
+        "translation": "bed",
+        "partOfSpeech": "noun",
+        "gender": "das",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "Stuhl",
+        "translation": "chair",
+        "partOfSpeech": "noun",
+        "gender": "der",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "Tisch",
+        "translation": "table",
+        "partOfSpeech": "noun",
+        "gender": "der",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "Schrank",
+        "translation": "wardrobe, cupboard",
+        "partOfSpeech": "noun",
+        "gender": "der",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "Fenster",
+        "translation": "window",
+        "partOfSpeech": "noun",
+        "gender": "das",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "Tür",
+        "translation": "door",
+        "partOfSpeech": "noun",
+        "gender": "die",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "wohnen",
+        "translation": "to live",
+        "partOfSpeech": "verb",
+        "perfektForm": "hat gewohnt",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "putzen",
+        "translation": "to clean",
+        "partOfSpeech": "verb",
+        "perfektForm": "hat geputzt",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "kochen",
+        "translation": "to cook",
+        "partOfSpeech": "verb",
+        "perfektForm": "hat gekocht",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "hell",
+        "translation": "bright",
+        "partOfSpeech": "adjective",
+        "opposite": "dunkel",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "dunkel",
+        "translation": "dark",
+        "partOfSpeech": "adjective",
+        "opposite": "hell",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "groß",
+        "translation": "big, large",
+        "partOfSpeech": "adjective",
+        "opposite": "klein",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "klein",
+        "translation": "small",
+        "partOfSpeech": "adjective",
+        "opposite": "groß",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "Ich wohne in einem Haus.",
+        "translation": "I live in a house.",
+        "partOfSpeech": "phrase",
+        "register": "neutral",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "Ich wohne in einer Wohnung.",
+        "translation": "I live in an apartment.",
+        "partOfSpeech": "phrase",
+        "register": "neutral",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "Wie viele Zimmer hat die Wohnung?",
+        "translation": "How many rooms does the apartment have?",
+        "partOfSpeech": "phrase",
+        "register": "neutral",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "Das Wohnzimmer ist groß.",
+        "translation": "The living room is big.",
+        "partOfSpeech": "phrase",
+        "register": "neutral",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "Die Küche ist hell.",
+        "translation": "The kitchen is bright.",
+        "partOfSpeech": "phrase",
+        "register": "neutral",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "Wo ist das Badezimmer?",
+        "translation": "Where is the bathroom?",
+        "partOfSpeech": "phrase",
+        "register": "neutral",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "Ich putze das Zimmer.",
+        "translation": "I clean the room.",
+        "partOfSpeech": "phrase",
+        "register": "neutral",
+        "cefrLevel": "A1"
+      },
+      {
+        "word": "Das Fenster ist offen.",
+        "translation": "The window is open.",
+        "partOfSpeech": "phrase",
+        "register": "neutral",
+        "cefrLevel": "A1"
+      }
+]
+
+  

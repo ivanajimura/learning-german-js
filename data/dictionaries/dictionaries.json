@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Daily Activities",
+        "level": "A1",
+        "path": "/data/dictionaries/a1/daily-activities.json"
+    },
+    {
+        "name": "Family and Friends",
+        "level": "A1",
+        "path": "/data/dictionaries/a1/family-friends.json"
+    },
+    {
+        "name": "Food and Drink",
+        "level": "A1",
+        "path": "/data/dictionaries/a1/food-drink.json"
+    },
+    {
+        "name": "Home and Living",
+        "level": "A1",
+        "path": "/data/dictionaries/a1/home-living.json"
+    },
+    {
+        "name": "Introductions",
+        "level": "A1",
+        "path": "/data/dictionaries/a1/introductions.json"
+    },
+    {
+        "name": "Shopping and Clothing",
+        "level": "A1",
+        "path": "/data/dictionaries/a1/shopping-clothing.json"
+    }
+
+    
+]

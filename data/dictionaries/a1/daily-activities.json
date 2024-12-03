@@ -1,0 +1,122 @@
+[
+    {
+      "word": "Frühstück",
+      "translation": "breakfast",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Mittagessen",
+      "translation": "lunch",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Abendessen",
+      "translation": "dinner",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Arbeit",
+      "translation": "work",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Schule",
+      "translation": "school",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "lesen",
+      "translation": "to read",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat gelesen",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "schlafen",
+      "translation": "to sleep",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat geschlafen",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "gehen",
+      "translation": "to go",
+      "partOfSpeech": "verb",
+      "perfektForm": "ist gegangen",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "aufstehen",
+      "translation": "to get up",
+      "partOfSpeech": "verb",
+      "perfektForm": "ist aufgestanden",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "kochen",
+      "translation": "to cook",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat gekocht",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "müde",
+      "translation": "tired",
+      "partOfSpeech": "adjective",
+      "opposite": "wach",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "wach",
+      "translation": "awake",
+      "partOfSpeech": "adjective",
+      "opposite": "müde",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Ich stehe um 7 Uhr auf.",
+      "translation": "I get up at 7 o'clock.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Ich gehe zur Arbeit.",
+      "translation": "I go to work.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Ich frühstücke um 8 Uhr.",
+      "translation": "I have breakfast at 8 o'clock.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Ich lese ein Buch.",
+      "translation": "I read a book.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Wann gehst du schlafen?",
+      "translation": "When do you go to sleep?",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    }
+]
+  
