@@ -31,7 +31,14 @@ function loadNounGenderGame(dictionary){
 
     function loadNewWord(){
         randomJSON = randomFilter(dictionary, quantity)
-        nounElement.innerText = randomJSON[0]['word']
+        try{
+            nounElement.innerText = randomJSON[0]['word']
+        }
+            
+        catch(err){
+            alert('This dictionary does not contain nouns yet. Please pick another one.')
+        }
+            
         textInputElement.value = ''
         feedbackElement.innerText = ''
     }
