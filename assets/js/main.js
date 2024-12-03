@@ -1,9 +1,9 @@
 (async () => {
     const dictionaryList = await fetchDictionaryList()
     
-    populateRadioButtons(dictionaryList)
+    await populateRadioButtons(dictionaryList)
 
-    const dictionaryPath = selectRandomDictionary(dictionaryList)
+    const dictionaryPath = await selectRandomDictionary(dictionaryList)
 
     const dictonary = await fetchDictionary(dictionaryPath)
     const nouns = await getNouns(dictonary)

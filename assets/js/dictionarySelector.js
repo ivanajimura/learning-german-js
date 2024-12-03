@@ -6,10 +6,11 @@ async function fetchDictionaryList(dictionaryJson = dictionaryList){
 }
 
 function populateRadioButtons(dictionaryJson){
+
     const dictionaryDivElement = document.getElementById('game.dictionary')
     dictionaryDivElement.innerHTML = '<label id="dictionaryText" for="dictionary">Dictionary in use: </label><br>'
     
-    dictionaryDivElement.innerHTML += dictionaryJson.map(dict => 
+    dictionaryDivElement.innerHTML += Array.from(dictionaryJson).map(dict => 
         `<input id="${dict.path}" type="radio" name="dictionary" value="${dict.name}">
         <label for="${dict.path}">${dict.name} (${dict.level})</label><br>
         `
