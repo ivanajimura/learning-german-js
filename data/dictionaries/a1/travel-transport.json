@@ -1,0 +1,143 @@
+[
+    {
+      "word": "Bahnhof",
+      "translation": "train station",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Bus",
+      "translation": "bus",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Flughafen",
+      "translation": "airport",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Ticket",
+      "translation": "ticket",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Gleis",
+      "translation": "platform",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Reise",
+      "translation": "journey, trip",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "fahren",
+      "translation": "to travel, drive",
+      "partOfSpeech": "verb",
+      "perfektForm": "ist gefahren",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "buchen",
+      "translation": "to book",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat gebucht",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "fliegen",
+      "translation": "to fly",
+      "partOfSpeech": "verb",
+      "perfektForm": "ist geflogen",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "pünktlich",
+      "translation": "punctual, on time",
+      "partOfSpeech": "adjective",
+      "opposite": "spät",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "spät",
+      "translation": "late",
+      "partOfSpeech": "adjective",
+      "opposite": "pünktlich",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "frei",
+      "translation": "free, available",
+      "partOfSpeech": "adjective",
+      "opposite": "besetzt",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "besetzt",
+      "translation": "occupied, taken",
+      "partOfSpeech": "adjective",
+      "opposite": "frei",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Wo ist der Bahnhof?",
+      "translation": "Where is the train station?",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Ein Ticket nach Berlin, bitte.",
+      "translation": "A ticket to Berlin, please.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Wie viel kostet das Ticket?",
+      "translation": "How much is the ticket?",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Wann fährt der nächste Zug?",
+      "translation": "When does the next train leave?",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Der Zug hat Verspätung.",
+      "translation": "The train is delayed.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Bitte steigen Sie ein.",
+      "translation": "Please board.",
+      "partOfSpeech": "phrase",
+      "register": "formal",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Wo möchten Sie hin?",
+      "translation": "Where would you like to go?",
+      "partOfSpeech": "phrase",
+      "register": "formal",
+      "cefrLevel": "A1"
+    }
+  ]
+  

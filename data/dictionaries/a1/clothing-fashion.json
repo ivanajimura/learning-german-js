@@ -1,0 +1,319 @@
+[
+    {
+      "word": "Hemd",
+      "translation": "shirt",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Bluse",
+      "translation": "blouse",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Hose",
+      "translation": "pants",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Kleid",
+      "translation": "dress",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Jacke",
+      "translation": "jacket",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Mantel",
+      "translation": "coat",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Schuhe",
+      "translation": "shoes",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Stiefel",
+      "translation": "boots",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Socken",
+      "translation": "socks",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "T-Shirt",
+      "translation": "T-shirt",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Kappe",
+      "translation": "cap",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Mütze",
+      "translation": "hat",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Schal",
+      "translation": "scarf",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Krawatte",
+      "translation": "tie",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Anzug",
+      "translation": "suit",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Blazer",
+      "translation": "blazer",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Belt",
+      "translation": "belt",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Shorts",
+      "translation": "shorts",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Handschuhe",
+      "translation": "gloves",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Oberteil",
+      "translation": "top",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Jeans",
+      "translation": "jeans",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Pullover",
+      "translation": "sweater",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Tasche",
+      "translation": "bag",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Ohrringe",
+      "translation": "earrings",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Armband",
+      "translation": "bracelet",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Rucksack",
+      "translation": "backpack",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Kleidungsstück",
+      "translation": "garment",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Was kostet das?",
+      "translation": "How much does that cost?",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Ich möchte diese Jacke kaufen.",
+      "translation": "I would like to buy this jacket.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "schick",
+      "translation": "stylish",
+      "partOfSpeech": "adjective",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "bequem",
+      "translation": "comfortable",
+      "partOfSpeech": "adjective",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "modisch",
+      "translation": "fashionable",
+      "partOfSpeech": "adjective",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "teuer",
+      "translation": "expensive",
+      "partOfSpeech": "adjective",
+      "opposite": "günstig",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "günstig",
+      "translation": "inexpensive/affordable",
+      "partOfSpeech": "adjective",
+      "opposite": "teuer",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "neu",
+      "translation": "new",
+      "partOfSpeech": "adjective",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "alt",
+      "translation": "old",
+      "partOfSpeech": "adjective",
+      "opposite": "neu",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "locker",
+      "translation": "loose",
+      "partOfSpeech": "adjective",
+      "opposite": "eng",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "eng",
+      "translation": "tight",
+      "partOfSpeech": "adjective",
+      "opposite": "locker",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "farbig",
+      "translation": "colored",
+      "partOfSpeech": "adjective",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "anziehen",
+      "translation": "to put on",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat angezogen",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "ausziehen",
+      "translation": "to take off",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat ausgezogen",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "anprobieren",
+      "translation": "to try on",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat anprobiert",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "kaufen",
+      "translation": "to buy",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat gekauft",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "zurückgeben",
+      "translation": "to return",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat zurückgegeben",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "umtauschen",
+      "translation": "to exchange",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat umgetauscht",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "passen",
+      "translation": "to fit",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat gepasst",
+      "cefrLevel": "A1"
+    }    
+]

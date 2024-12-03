@@ -1,0 +1,141 @@
+[
+    {
+      "word": "Hobby",
+      "translation": "hobby",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Sport",
+      "translation": "sport",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Musik",
+      "translation": "music",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Buch",
+      "translation": "book",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Film",
+      "translation": "movie",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Freund",
+      "translation": "friend",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "lesen",
+      "translation": "to read",
+      "partOfSpeech": "verb",
+      "perfekt": "gelesen",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "tanzen",
+      "translation": "to dance",
+      "partOfSpeech": "verb",
+      "perfekt": "getanzt",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "spielen",
+      "translation": "to play",
+      "partOfSpeech": "verb",
+      "perfekt": "gespielt",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "zeichnen",
+      "translation": "to draw",
+      "partOfSpeech": "verb",
+      "perfekt": "gezeichnet",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "kreativ",
+      "translation": "creative",
+      "partOfSpeech": "adjective",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "entspannend",
+      "translation": "relaxing",
+      "partOfSpeech": "adjective",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "aktiv",
+      "translation": "active",
+      "partOfSpeech": "adjective",
+      "opposite": "faul",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "faul",
+      "translation": "lazy",
+      "partOfSpeech": "adjective",
+      "opposite": "aktiv",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Hast du ein Hobby?",
+      "translation": "Do you have a hobby?",
+      "partOfSpeech": "phrase",
+      "register": "informal",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Ich lese gern.",
+      "translation": "I like reading.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Ich höre Musik.",
+      "translation": "I listen to music.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Wir spielen Fußball.",
+      "translation": "We play soccer.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Das macht Spaß!",
+      "translation": "That's fun!",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Freizeit ist wichtig.",
+      "translation": "Free time is important.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    }
+  ]
+  

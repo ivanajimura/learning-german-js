@@ -1,0 +1,163 @@
+[
+    {
+      "word": "Kopf",
+      "translation": "head",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Hand",
+      "translation": "hand",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Fuß",
+      "translation": "foot",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Auge",
+      "translation": "eye",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Mund",
+      "translation": "mouth",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Hals",
+      "translation": "throat",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Schmerz",
+      "translation": "pain",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "gesund",
+      "translation": "healthy",
+      "partOfSpeech": "adjective",
+      "opposite": "krank",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "krank",
+      "translation": "sick",
+      "partOfSpeech": "adjective",
+      "opposite": "gesund",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "müde",
+      "translation": "tired",
+      "partOfSpeech": "adjective",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Ich fühle mich nicht gut.",
+      "translation": "I don't feel well.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Haben Sie Schmerzen?",
+      "translation": "Do you have pain?",
+      "partOfSpeech": "phrase",
+      "register": "formal",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Ich habe Kopfschmerzen.",
+      "translation": "I have a headache.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Nehmen Sie diese Tabletten.",
+      "translation": "Take these tablets.",
+      "partOfSpeech": "phrase",
+      "register": "formal",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Trinken Sie viel Wasser.",
+      "translation": "Drink plenty of water.",
+      "partOfSpeech": "phrase",
+      "register": "formal",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Der Arzt kommt gleich.",
+      "translation": "The doctor will come shortly.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Ich brauche einen Arzt.",
+      "translation": "I need a doctor.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Fieber",
+      "translation": "fever",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Husten",
+      "translation": "cough",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Tablette",
+      "translation": "tablet, pill",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Apotheke",
+      "translation": "pharmacy",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Notfall",
+      "translation": "emergency",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Das ist ein Notfall.",
+      "translation": "This is an emergency.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    }
+  ]
+  

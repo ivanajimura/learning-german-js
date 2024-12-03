@@ -1,0 +1,133 @@
+[
+    {
+      "word": "rot",
+      "translation": "red",
+      "partOfSpeech": "adjective",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "blau",
+      "translation": "blue",
+      "partOfSpeech": "adjective",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "gelb",
+      "translation": "yellow",
+      "partOfSpeech": "adjective",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "grün",
+      "translation": "green",
+      "partOfSpeech": "adjective",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "schwarz",
+      "translation": "black",
+      "partOfSpeech": "adjective",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "weiß",
+      "translation": "white",
+      "partOfSpeech": "adjective",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "braun",
+      "translation": "brown",
+      "partOfSpeech": "adjective",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "orange",
+      "translation": "orange",
+      "partOfSpeech": "adjective",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "lila",
+      "translation": "purple",
+      "partOfSpeech": "adjective",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "grau",
+      "translation": "gray",
+      "partOfSpeech": "adjective",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "kreisförmig",
+      "translation": "circular",
+      "partOfSpeech": "adjective",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "quadratisch",
+      "translation": "square",
+      "partOfSpeech": "adjective",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "dreieckig",
+      "translation": "triangular",
+      "partOfSpeech": "adjective",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "rechteckig",
+      "translation": "rectangular",
+      "partOfSpeech": "adjective",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "rund",
+      "translation": "round",
+      "partOfSpeech": "adjective",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "spitz",
+      "translation": "sharp",
+      "partOfSpeech": "adjective",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "flach",
+      "translation": "flat",
+      "partOfSpeech": "adjective",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Die Wand ist blau.",
+      "translation": "The wall is blue.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Der Tisch ist quadratisch.",
+      "translation": "The table is square.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Der Ball ist rund.",
+      "translation": "The ball is round.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Die Blume ist lila.",
+      "translation": "The flower is purple.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    }
+  ]
+  

@@ -1,0 +1,136 @@
+[
+    {
+      "word": "Beruf",
+      "translation": "profession, job",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Arbeit",
+      "translation": "work, job",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Kollege",
+      "translation": "colleague (male)",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Kollegin",
+      "translation": "colleague (female)",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Chef",
+      "translation": "boss (male)",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Chefin",
+      "translation": "boss (female)",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "arbeiten",
+      "translation": "to work",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat gearbeitet",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "verdienen",
+      "translation": "to earn",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat verdient",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "suchen",
+      "translation": "to search, look for",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat gesucht",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "neu",
+      "translation": "new",
+      "partOfSpeech": "adjective",
+      "opposite": "alt",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "alt",
+      "translation": "old",
+      "partOfSpeech": "adjective",
+      "opposite": "neu",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "vollzeit",
+      "translation": "full-time",
+      "partOfSpeech": "adjective",
+      "opposite": "teilzeit",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "teilzeit",
+      "translation": "part-time",
+      "partOfSpeech": "adjective",
+      "opposite": "vollzeit",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Ich suche eine Arbeit.",
+      "translation": "I am looking for a job.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Was sind Sie von Beruf?",
+      "translation": "What is your profession?",
+      "partOfSpeech": "phrase",
+      "register": "formal",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Ich arbeite als Lehrer.",
+      "translation": "I work as a teacher.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Haben Sie einen Lebenslauf?",
+      "translation": "Do you have a resume?",
+      "partOfSpeech": "phrase",
+      "register": "formal",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Mein Chef ist nett.",
+      "translation": "My boss is nice.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Ich arbeite in einer Firma.",
+      "translation": "I work in a company.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    }
+  ]
+  

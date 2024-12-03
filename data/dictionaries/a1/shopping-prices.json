@@ -1,0 +1,129 @@
+[
+    {
+      "word": "Preis",
+      "translation": "price",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Markt",
+      "translation": "market",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Supermarkt",
+      "translation": "supermarket",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Rechnung",
+      "translation": "bill, invoice",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Rabatt",
+      "translation": "discount",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "kaufen",
+      "translation": "to buy",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat gekauft",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "verkaufen",
+      "translation": "to sell",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat verkauft",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "bezahlen",
+      "translation": "to pay",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat bezahlt",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "günstig",
+      "translation": "affordable",
+      "partOfSpeech": "adjective",
+      "opposite": "teuer",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "teuer",
+      "translation": "expensive",
+      "partOfSpeech": "adjective",
+      "opposite": "günstig",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "billig",
+      "translation": "cheap",
+      "partOfSpeech": "adjective",
+      "opposite": "teuer",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Bar oder mit Karte?",
+      "translation": "Cash or card?",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Wie viel kostet das?",
+      "translation": "How much does that cost?",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Ich möchte das kaufen.",
+      "translation": "I would like to buy that.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Haben Sie das in einer anderen Größe?",
+      "translation": "Do you have this in another size?",
+      "partOfSpeech": "phrase",
+      "register": "formal",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Das ist zu teuer.",
+      "translation": "That is too expensive.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Ich brauche eine Quittung.",
+      "translation": "I need a receipt.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Vielen Dank für Ihren Einkauf!",
+      "translation": "Thank you for your purchase!",
+      "partOfSpeech": "phrase",
+      "register": "formal",
+      "cefrLevel": "A1"
+    }
+  ]
+  

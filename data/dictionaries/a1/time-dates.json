@@ -1,0 +1,161 @@
+[
+    {
+      "word": "Montag",
+      "translation": "Monday",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Dienstag",
+      "translation": "Tuesday",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Mittwoch",
+      "translation": "Wednesday",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Donnerstag",
+      "translation": "Thursday",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Freitag",
+      "translation": "Friday",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Samstag",
+      "translation": "Saturday",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Sonntag",
+      "translation": "Sunday",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Uhr",
+      "translation": "o'clock, clock",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Zeit",
+      "translation": "time",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Monat",
+      "translation": "month",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Jahr",
+      "translation": "year",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "heute",
+      "translation": "today",
+      "partOfSpeech": "adverb",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "morgen",
+      "translation": "tomorrow",
+      "partOfSpeech": "adverb",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "gestern",
+      "translation": "yesterday",
+      "partOfSpeech": "adverb",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Frühling",
+      "translation": "spring",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Sommer",
+      "translation": "summer",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Herbst",
+      "translation": "autumn",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Winter",
+      "translation": "winter",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Wie spät ist es?",
+      "translation": "What time is it?",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Es ist zehn Uhr.",
+      "translation": "It is ten o'clock.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Ich habe keine Zeit.",
+      "translation": "I don't have time.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Der Frühling beginnt im März.",
+      "translation": "Spring begins in March.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Mein Geburtstag ist im Juli.",
+      "translation": "My birthday is in July.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    }
+  ]
+  

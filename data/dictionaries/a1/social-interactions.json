@@ -1,0 +1,219 @@
+[
+    {
+      "word": "Freund",
+      "translation": "friend (male)",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Freundin",
+      "translation": "friend (female)",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Gespräch",
+      "translation": "conversation",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Lächeln",
+      "translation": "smile",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Kuss",
+      "translation": "kiss",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "nett",
+      "translation": "nice",
+      "partOfSpeech": "adjective",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "freundlich",
+      "translation": "friendly",
+      "partOfSpeech": "adjective",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "zufrieden",
+      "translation": "satisfied",
+      "partOfSpeech": "adjective",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "lachen",
+      "translation": "to laugh",
+      "partOfSpeech": "verb",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "antworten",
+      "translation": "to answer",
+      "partOfSpeech": "verb",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "sprechen",
+      "translation": "to speak",
+      "partOfSpeech": "verb",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "kennen",
+      "translation": "to know (a person)",
+      "partOfSpeech": "verb",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "besuchen",
+      "translation": "to visit",
+      "partOfSpeech": "verb",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Hallo",
+      "translation": "Hello",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Guten Morgen",
+      "translation": "Good morning",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Guten Tag",
+      "translation": "Good day",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Guten Abend",
+      "translation": "Good evening",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Gute Nacht",
+      "translation": "Good night",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Auf Wiedersehen",
+      "translation": "Goodbye",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Tschüss",
+      "translation": "Bye",
+      "partOfSpeech": "phrase",
+      "register": "informal",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Wie geht's?",
+      "translation": "How are you?",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Mir geht's gut, danke.",
+      "translation": "I'm fine, thank you.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Was machen Sie beruflich?",
+      "translation": "What do you do for a living?",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Ich heiße...",
+      "translation": "My name is...",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Ich komme aus...",
+      "translation": "I come from...",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Es freut mich, Sie kennenzulernen.",
+      "translation": "Nice to meet you.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Entschuldigung",
+      "translation": "Excuse me",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Bitte",
+      "translation": "Please",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Danke",
+      "translation": "Thank you",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Vielen Dank",
+      "translation": "Thank you very much",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Entschuldigung, wo ist die Toilette?",
+      "translation": "Excuse me, where is the bathroom?",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Könnten Sie mir helfen?",
+      "translation": "Could you help me?",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    }
+  ]
+  

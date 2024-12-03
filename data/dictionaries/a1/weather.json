@@ -1,0 +1,143 @@
+[
+    {
+      "word": "Wetter",
+      "translation": "weather",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Sonne",
+      "translation": "sun",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Regen",
+      "translation": "rain",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Schnee",
+      "translation": "snow",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Wind",
+      "translation": "wind",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Temperatur",
+      "translation": "temperature",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "warm",
+      "translation": "warm",
+      "partOfSpeech": "adjective",
+      "opposite": "kalt",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "kalt",
+      "translation": "cold",
+      "partOfSpeech": "adjective",
+      "opposite": "warm",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "heiß",
+      "translation": "hot",
+      "partOfSpeech": "adjective",
+      "opposite": "kühl",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "kühl",
+      "translation": "cool",
+      "partOfSpeech": "adjective",
+      "opposite": "heiß",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "nass",
+      "translation": "wet",
+      "partOfSpeech": "adjective",
+      "opposite": "trocken",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "trocken",
+      "translation": "dry",
+      "partOfSpeech": "adjective",
+      "opposite": "nass",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Es regnet.",
+      "translation": "It is raining.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Die Sonne scheint.",
+      "translation": "The sun is shining.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Es ist windig.",
+      "translation": "It is windy.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Wie ist das Wetter heute?",
+      "translation": "What is the weather like today?",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Es ist kalt und nass.",
+      "translation": "It is cold and wet.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Morgen wird es sonnig.",
+      "translation": "Tomorrow it will be sunny.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Die Temperatur ist hoch.",
+      "translation": "The temperature is high.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Es schneit.",
+      "translation": "It is snowing.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    }
+  ]
+  

@@ -1,0 +1,174 @@
+[
+    {
+      "word": "eins",
+      "translation": "one",
+      "partOfSpeech": "noun",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "zwei",
+      "translation": "two",
+      "partOfSpeech": "noun",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "drei",
+      "translation": "three",
+      "partOfSpeech": "noun",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "vier",
+      "translation": "four",
+      "partOfSpeech": "noun",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "fünf",
+      "translation": "five",
+      "partOfSpeech": "noun",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "sechs",
+      "translation": "six",
+      "partOfSpeech": "noun",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "sieben",
+      "translation": "seven",
+      "partOfSpeech": "noun",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "acht",
+      "translation": "eight",
+      "partOfSpeech": "noun",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "neun",
+      "translation": "nine",
+      "partOfSpeech": "noun",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "zehn",
+      "translation": "ten",
+      "partOfSpeech": "noun",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "elf",
+      "translation": "eleven",
+      "partOfSpeech": "noun",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "zwölf",
+      "translation": "twelve",
+      "partOfSpeech": "noun",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "dreizehn",
+      "translation": "thirteen",
+      "partOfSpeech": "noun",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "vierzehn",
+      "translation": "fourteen",
+      "partOfSpeech": "noun",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "fünfzehn",
+      "translation": "fifteen",
+      "partOfSpeech": "noun",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "sechzehn",
+      "translation": "sixteen",
+      "partOfSpeech": "noun",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "siebzehn",
+      "translation": "seventeen",
+      "partOfSpeech": "noun",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "achtzehn",
+      "translation": "eighteen",
+      "partOfSpeech": "noun",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "neunzehn",
+      "translation": "nineteen",
+      "partOfSpeech": "noun",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "zwanzig",
+      "translation": "twenty",
+      "partOfSpeech": "noun",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "dreißig",
+      "translation": "thirty",
+      "partOfSpeech": "noun",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "vierzig",
+      "translation": "forty",
+      "partOfSpeech": "noun",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "fünfzig",
+      "translation": "fifty",
+      "partOfSpeech": "noun",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "hundert",
+      "translation": "one hundred",
+      "partOfSpeech": "noun",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "tausend",
+      "translation": "thousand",
+      "partOfSpeech": "noun",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Wie viel kostet das?",
+      "translation": "How much does it cost?",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Ich habe zwanzig Euro.",
+      "translation": "I have twenty euros.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "Kannst du das bitte wiederholen?",
+      "translation": "Can you repeat that, please?",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A1"
+    }
+  ]
+  
