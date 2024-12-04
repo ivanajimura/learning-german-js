@@ -1,0 +1,143 @@
+[
+    {
+      "word": "Universität",
+      "translation": "university",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Gymnasium",
+      "translation": "high school (academic track)",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Prüfung",
+      "translation": "exam",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Kurs",
+      "translation": "course",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Lehrplan",
+      "translation": "curriculum",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Hochschule",
+      "translation": "college",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Student",
+      "translation": "university student (male)",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Studentin",
+      "translation": "university student (female)",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "lernen",
+      "translation": "to learn",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat gelernt",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "studieren",
+      "translation": "to study (at university)",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat studiert",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "bestehen",
+      "translation": "to pass (an exam)",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat bestanden",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "sich vorbereiten",
+      "translation": "to prepare oneself",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat sich vorbereitet",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "schriftlich",
+      "translation": "written",
+      "partOfSpeech": "adjective",
+      "opposite": "mündlich",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "mündlich",
+      "translation": "oral",
+      "partOfSpeech": "adjective",
+      "opposite": "schriftlich",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "kompliziert",
+      "translation": "complicated",
+      "partOfSpeech": "adjective",
+      "opposite": "einfach",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "einfach",
+      "translation": "simple, easy",
+      "partOfSpeech": "adjective",
+      "opposite": "kompliziert",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Ich besuche einen Kurs.",
+      "translation": "I am attending a course.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Ich habe die Prüfung bestanden.",
+      "translation": "I passed the exam.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Wie lange dauert das Studium?",
+      "translation": "How long does the degree program take?",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Ich studiere an der Universität.",
+      "translation": "I am studying at the university.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A2"
+    }
+  ]
+  

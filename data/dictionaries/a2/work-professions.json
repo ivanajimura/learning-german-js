@@ -1,0 +1,129 @@
+[
+    {
+      "word": "Stellenanzeige",
+      "translation": "job advertisement",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Bewerbung",
+      "translation": "application",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Besprechung",
+      "translation": "meeting",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Mitarbeiter",
+      "translation": "employee (male)",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Mitarbeiterin",
+      "translation": "employee (female)",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Arbeitszeit",
+      "translation": "working hours",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Projekt",
+      "translation": "project",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "verhandeln",
+      "translation": "to negotiate",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat verhandelt",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "organisieren",
+      "translation": "to organize",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat organisiert",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "präsentieren",
+      "translation": "to present",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat präsentiert",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "kreativ",
+      "translation": "creative",
+      "partOfSpeech": "adjective",
+      "opposite": "unkreativ",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "pünktlich",
+      "translation": "punctual",
+      "partOfSpeech": "adjective",
+      "opposite": "unpünktlich",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "effizient",
+      "translation": "efficient",
+      "partOfSpeech": "adjective",
+      "opposite": "ineffizient",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Ich schreibe eine Bewerbung.",
+      "translation": "I am writing an application.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Wir haben eine Besprechung um 10 Uhr.",
+      "translation": "We have a meeting at 10 o'clock.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Ich arbeite an einem Projekt.",
+      "translation": "I am working on a project.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Wann sind Ihre Arbeitszeiten?",
+      "translation": "What are your working hours?",
+      "partOfSpeech": "phrase",
+      "register": "formal",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Ich präsentiere die Ergebnisse.",
+      "translation": "I am presenting the results.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A2"
+    }
+  ]
+  

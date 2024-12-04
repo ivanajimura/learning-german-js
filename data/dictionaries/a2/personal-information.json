@@ -1,0 +1,135 @@
+[
+    {
+      "word": "Geburtstag",
+      "translation": "birthday",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Hobby",
+      "translation": "hobby",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Lebenslauf",
+      "translation": "resume, CV",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Kindheit",
+      "translation": "childhood",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Erfolg",
+      "translation": "success",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "interessieren",
+      "translation": "to interest",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat interessiert",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "feiern",
+      "translation": "to celebrate",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat gefeiert",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "erreichen",
+      "translation": "to achieve",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat erreicht",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "beschreiben",
+      "translation": "to describe",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat beschrieben",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "sportlich",
+      "translation": "athletic",
+      "partOfSpeech": "adjective",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "freundlich",
+      "translation": "friendly",
+      "partOfSpeech": "adjective",
+      "opposite": "unfreundlich",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "ehrlich",
+      "translation": "honest",
+      "partOfSpeech": "adjective",
+      "opposite": "unehrlich",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "unsportlich",
+      "translation": "not athletic",
+      "partOfSpeech": "adjective",
+      "opposite": "sportlich",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Wann haben Sie Geburtstag?",
+      "translation": "When is your birthday?",
+      "partOfSpeech": "phrase",
+      "register": "formal",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Was sind Ihre Hobbys?",
+      "translation": "What are your hobbies?",
+      "partOfSpeech": "phrase",
+      "register": "formal",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Erzähl mir von deiner Kindheit.",
+      "translation": "Tell me about your childhood.",
+      "partOfSpeech": "phrase",
+      "register": "informal",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Was machen Sie beruflich?",
+      "translation": "What do you do for a living?",
+      "partOfSpeech": "phrase",
+      "register": "formal",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Welche Ziele haben Sie erreicht?",
+      "translation": "What goals have you achieved?",
+      "partOfSpeech": "phrase",
+      "register": "formal",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Ich interessiere mich für Sport.",
+      "translation": "I am interested in sports.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A2"
+    }
+  ]
+  

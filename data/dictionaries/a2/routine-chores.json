@@ -1,0 +1,122 @@
+[
+    {
+      "word": "Staubsaugen",
+      "translation": "vacuuming",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Einkaufsliste",
+      "translation": "shopping list",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Abwasch",
+      "translation": "dishwashing",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Wäsche",
+      "translation": "laundry",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "putzen",
+      "translation": "to clean",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat geputzt",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "staubsaugen",
+      "translation": "to vacuum",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat gestaubsaugt",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "abwaschen",
+      "translation": "to do the dishes",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat abgewaschen",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "aufräumen",
+      "translation": "to tidy up",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat aufgeräumt",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "wegwerfen",
+      "translation": "to throw away",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat weggeworfen",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "bequem",
+      "translation": "comfortable",
+      "partOfSpeech": "adjective",
+      "opposite": "unbequem",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "sauber",
+      "translation": "clean",
+      "partOfSpeech": "adjective",
+      "opposite": "schmutzig",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "schmutzig",
+      "translation": "dirty",
+      "partOfSpeech": "adjective",
+      "opposite": "sauber",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Ich sauge Staub.",
+      "translation": "I am vacuuming.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Ich mache eine Einkaufsliste.",
+      "translation": "I am making a shopping list.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Ich räume das Zimmer auf.",
+      "translation": "I am tidying up the room.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Wie oft wäschst du ab?",
+      "translation": "How often do you do the dishes?",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Ich werfe das weg.",
+      "translation": "I am throwing that away.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A2"
+    }
+  ]
+  

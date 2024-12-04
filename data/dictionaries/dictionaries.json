@@ -93,6 +93,31 @@
         "name": "Social Interactions",
         "level": "A1",
         "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a1/social-interactions.json"
+    },
+    {
+        "name": "Personal Information",
+        "level": "A2",
+        "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a2/personal-information.json"
+    },
+    {
+        "name": "Daily Routine and Chores",
+        "level": "A2",
+        "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a2/routine-chores.json"
+    },
+    {
+        "name": "School and Education",
+        "level": "A2",
+        "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a2/school-education.json"
+    },
+    {
+        "name": "Shopping and Services",
+        "level": "A2",
+        "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a2/Shopping and Services.json"
+    },
+    {
+        "name": "Work and Professions",
+        "level": "A2",
+        "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a2/work-professions.json"
     }
 
 

@@ -1,0 +1,134 @@
+[
+    {
+      "word": "Elektrogeschäft",
+      "translation": "electronics store",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Drogerie",
+      "translation": "drugstore",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Juwelier",
+      "translation": "jeweler",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Möbelgeschäft",
+      "translation": "furniture store",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Spielwarengeschäft",
+      "translation": "toy store",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Kundendienst",
+      "translation": "customer service",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Reklamation",
+      "translation": "complaint",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "reklamieren",
+      "translation": "to complain about",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat reklamiert",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "umtauschen",
+      "translation": "to exchange",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat umgetauscht",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "zurückerstatten",
+      "translation": "to refund",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat zurückerstattet",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "passen",
+      "translation": "to fit",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat gepasst",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "unzufrieden",
+      "translation": "dissatisfied",
+      "partOfSpeech": "adjective",
+      "opposite": "zufrieden",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "defekt",
+      "translation": "defective",
+      "partOfSpeech": "adjective",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "reduziert",
+      "translation": "discounted",
+      "partOfSpeech": "adjective",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Das Produkt ist defekt.",
+      "translation": "The product is defective.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Ich möchte eine Rückerstattung.",
+      "translation": "I would like a refund.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Haben Sie diesen Artikel auf Lager?",
+      "translation": "Do you have this item in stock?",
+      "partOfSpeech": "phrase",
+      "register": "formal",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Wo finde ich den Kundendienst?",
+      "translation": "Where can I find customer service?",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Kann ich den Artikel umtauschen?",
+      "translation": "Can I exchange the item?",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A2"
+    }
+  ]
+  
