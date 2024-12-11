@@ -271,49 +271,49 @@
       "word": "anziehen",
       "translation": "to put on",
       "partOfSpeech": "verb",
-      "perfektForm": "hat angezogen",
+      "perfekt": "hat angezogen",
       "cefrLevel": "A1"
     },
     {
       "word": "ausziehen",
       "translation": "to take off",
       "partOfSpeech": "verb",
-      "perfektForm": "hat ausgezogen",
+      "perfekt": "hat ausgezogen",
       "cefrLevel": "A1"
     },
     {
       "word": "anprobieren",
       "translation": "to try on",
       "partOfSpeech": "verb",
-      "perfektForm": "hat anprobiert",
+      "perfekt": "hat anprobiert",
       "cefrLevel": "A1"
     },
     {
       "word": "kaufen",
       "translation": "to buy",
       "partOfSpeech": "verb",
-      "perfektForm": "hat gekauft",
+      "perfekt": "hat gekauft",
       "cefrLevel": "A1"
     },
     {
       "word": "zurückgeben",
       "translation": "to return",
       "partOfSpeech": "verb",
-      "perfektForm": "hat zurückgegeben",
+      "perfekt": "hat zurückgegeben",
       "cefrLevel": "A1"
     },
     {
       "word": "umtauschen",
       "translation": "to exchange",
       "partOfSpeech": "verb",
-      "perfektForm": "hat umgetauscht",
+      "perfekt": "hat umgetauscht",
       "cefrLevel": "A1"
     },
     {
       "word": "passen",
       "translation": "to fit",
       "partOfSpeech": "verb",
-      "perfektForm": "hat gepasst",
+      "perfekt": "hat gepasst",
       "cefrLevel": "A1"
     }    
 ]

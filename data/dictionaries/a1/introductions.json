@@ -45,28 +45,28 @@
         "word": "wohnen",
         "translation": "to live",
         "partOfSpeech": "verb",
-        "perfektForm": "hat gewohnt",
+        "perfekt": "hat gewohnt",
         "cefrLevel": "A1"
       },
       {
         "word": "kommen",
         "translation": "to come",
         "partOfSpeech": "verb",
-        "perfektForm": "ist gekommen",
+        "perfekt": "ist gekommen",
         "cefrLevel": "A1"
       },
       {
         "word": "heißen",
         "translation": "to be called",
         "partOfSpeech": "verb",
-        "perfektForm": "hat geheißen",
+        "perfekt": "hat geheißen",
         "cefrLevel": "A1"
       },
       {
         "word": "leben",
         "translation": "to live",
         "partOfSpeech": "verb",
-        "perfektForm": "hat gelebt",
+        "perfekt": "hat gelebt",
         "cefrLevel": "A1"
       },
       {

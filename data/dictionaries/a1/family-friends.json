@@ -80,21 +80,21 @@
         "word": "lieben",
         "translation": "to love",
         "partOfSpeech": "verb",
-        "perfektForm": "hat geliebt",
+        "perfekt": "hat geliebt",
         "cefrLevel": "A1"
       },
       {
         "word": "kennen",
         "translation": "to know (someone)",
         "partOfSpeech": "verb",
-        "perfektForm": "hat gekannt",
+        "perfekt": "hat gekannt",
         "cefrLevel": "A1"
       },
       {
         "word": "heiraten",
         "translation": "to marry",
         "partOfSpeech": "verb",
-        "perfektForm": "hat geheiratet",
+        "perfekt": "hat geheiratet",
         "cefrLevel": "A1"
       },
       {

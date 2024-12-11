@@ -38,21 +38,21 @@
       "word": "kaufen",
       "translation": "to buy",
       "partOfSpeech": "verb",
-      "perfektForm": "hat gekauft",
+      "perfekt": "hat gekauft",
       "cefrLevel": "A1"
     },
     {
       "word": "verkaufen",
       "translation": "to sell",
       "partOfSpeech": "verb",
-      "perfektForm": "hat verkauft",
+      "perfekt": "hat verkauft",
       "cefrLevel": "A1"
     },
     {
       "word": "bezahlen",
       "translation": "to pay",
       "partOfSpeech": "verb",
-      "perfektForm": "hat bezahlt",
+      "perfekt": "hat bezahlt",
       "cefrLevel": "A1"
     },
     {

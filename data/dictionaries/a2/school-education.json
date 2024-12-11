@@ -59,28 +59,28 @@
       "word": "lernen",
       "translation": "to learn",
       "partOfSpeech": "verb",
-      "perfektForm": "hat gelernt",
+      "perfekt": "hat gelernt",
       "cefrLevel": "A2"
     },
     {
       "word": "studieren",
       "translation": "to study (at university)",
       "partOfSpeech": "verb",
-      "perfektForm": "hat studiert",
+      "perfekt": "hat studiert",
       "cefrLevel": "A2"
     },
     {
       "word": "bestehen",
       "translation": "to pass (an exam)",
       "partOfSpeech": "verb",
-      "perfektForm": "hat bestanden",
+      "perfekt": "hat bestanden",
       "cefrLevel": "A2"
     },
     {
       "word": "sich vorbereiten",
       "translation": "to prepare oneself",
       "partOfSpeech": "verb",
-      "perfektForm": "hat sich vorbereitet",
+      "perfekt": "hat sich vorbereitet",
       "cefrLevel": "A2"
     },
     {

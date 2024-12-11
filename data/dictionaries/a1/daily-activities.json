@@ -38,35 +38,35 @@
       "word": "lesen",
       "translation": "to read",
       "partOfSpeech": "verb",
-      "perfektForm": "hat gelesen",
+      "perfekt": "hat gelesen",
       "cefrLevel": "A1"
     },
     {
       "word": "schlafen",
       "translation": "to sleep",
       "partOfSpeech": "verb",
-      "perfektForm": "hat geschlafen",
+      "perfekt": "hat geschlafen",
       "cefrLevel": "A1"
     },
     {
       "word": "gehen",
       "translation": "to go",
       "partOfSpeech": "verb",
-      "perfektForm": "ist gegangen",
+      "perfekt": "ist gegangen",
       "cefrLevel": "A1"
     },
     {
       "word": "aufstehen",
       "translation": "to get up",
       "partOfSpeech": "verb",
-      "perfektForm": "ist aufgestanden",
+      "perfekt": "ist aufgestanden",
       "cefrLevel": "A1"
     },
     {
       "word": "kochen",
       "translation": "to cook",
       "partOfSpeech": "verb",
-      "perfektForm": "hat gekocht",
+      "perfekt": "hat gekocht",
       "cefrLevel": "A1"
     },
     {

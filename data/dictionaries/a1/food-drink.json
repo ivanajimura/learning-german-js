@@ -52,21 +52,21 @@
       "word": "essen",
       "translation": "to eat",
       "partOfSpeech": "verb",
-      "perfektForm": "hat gegessen",
+      "perfekt": "hat gegessen",
       "cefrLevel": "A1"
     },
     {
       "word": "trinken",
       "translation": "to drink",
       "partOfSpeech": "verb",
-      "perfektForm": "hat getrunken",
+      "perfekt": "hat getrunken",
       "cefrLevel": "A1"
     },
     {
       "word": "kochen",
       "translation": "to cook",
       "partOfSpeech": "verb",
-      "perfektForm": "hat gekocht",
+      "perfekt": "hat gekocht",
       "cefrLevel": "A1"
     },
     {

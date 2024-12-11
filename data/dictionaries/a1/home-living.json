@@ -94,21 +94,21 @@
         "word": "wohnen",
         "translation": "to live",
         "partOfSpeech": "verb",
-        "perfektForm": "hat gewohnt",
+        "perfekt": "hat gewohnt",
         "cefrLevel": "A1"
       },
       {
         "word": "putzen",
         "translation": "to clean",
         "partOfSpeech": "verb",
-        "perfektForm": "hat geputzt",
+        "perfekt": "hat geputzt",
         "cefrLevel": "A1"
       },
       {
         "word": "kochen",
         "translation": "to cook",
         "partOfSpeech": "verb",
-        "perfektForm": "hat gekocht",
+        "perfekt": "hat gekocht",
         "cefrLevel": "A1"
       },
       {

@@ -45,21 +45,21 @@
       "word": "fahren",
       "translation": "to travel, drive",
       "partOfSpeech": "verb",
-      "perfektForm": "ist gefahren",
+      "perfekt": "ist gefahren",
       "cefrLevel": "A1"
     },
     {
       "word": "buchen",
       "translation": "to book",
       "partOfSpeech": "verb",
-      "perfektForm": "hat gebucht",
+      "perfekt": "hat gebucht",
       "cefrLevel": "A1"
     },
     {
       "word": "fliegen",
       "translation": "to fly",
       "partOfSpeech": "verb",
-      "perfektForm": "ist geflogen",
+      "perfekt": "ist geflogen",
       "cefrLevel": "A1"
     },
     {
