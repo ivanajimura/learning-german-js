@@ -1,0 +1,136 @@
+[
+    {
+      "word": "Pfanne",
+      "translation": "pan",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Topf",
+      "translation": "pot",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Löffel",
+      "translation": "spoon",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Messer",
+      "translation": "knife",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Gabel",
+      "translation": "fork",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Rezept",
+      "translation": "recipe",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "schneiden",
+      "translation": "to cut",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat geschnitten",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "braten",
+      "translation": "to fry",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat gebraten",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "mischen",
+      "translation": "to mix",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat gemischt",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "würzen",
+      "translation": "to season",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat gewürzt",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "gekocht",
+      "translation": "cooked",
+      "partOfSpeech": "adjective",
+      "opposite": "roh",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "roh",
+      "translation": "raw",
+      "partOfSpeech": "adjective",
+      "opposite": "gekocht",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "scharf",
+      "translation": "spicy",
+      "partOfSpeech": "adjective",
+      "opposite": "mild",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "mild",
+      "translation": "mild",
+      "partOfSpeech": "adjective",
+      "opposite": "scharf",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Wie bereitet man dieses Gericht zu?",
+      "translation": "How do you prepare this dish?",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Schneiden Sie die Zwiebeln in kleine Stücke.",
+      "translation": "Cut the onions into small pieces.",
+      "partOfSpeech": "phrase",
+      "register": "formal",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Mischen Sie die Zutaten gut.",
+      "translation": "Mix the ingredients well.",
+      "partOfSpeech": "phrase",
+      "register": "formal",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Das Gericht ist sehr scharf.",
+      "translation": "The dish is very spicy.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Ich brauche ein Rezept für dieses Gericht.",
+      "translation": "I need a recipe for this dish.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A2"
+    }
+  ]
+  

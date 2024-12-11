@@ -1,0 +1,129 @@
+[
+    {
+      "word": "Reservierung",
+      "translation": "reservation",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Reiseführer",
+      "translation": "tour guide",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Unterkunft",
+      "translation": "accommodation",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Sehenswürdigkeit",
+      "translation": "tourist attraction",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Reisepass",
+      "translation": "passport",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "besichtigen",
+      "translation": "to visit (sights)",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat besichtigt",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "reservieren",
+      "translation": "to reserve",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat reserviert",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "empfehlen",
+      "translation": "to recommend",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat empfohlen",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "verreisen",
+      "translation": "to go on a trip",
+      "partOfSpeech": "verb",
+      "perfektForm": "ist verreist",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "komfortabel",
+      "translation": "comfortable",
+      "partOfSpeech": "adjective",
+      "opposite": "unbequem",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "unbequem",
+      "translation": "uncomfortable",
+      "partOfSpeech": "adjective",
+      "opposite": "komfortabel",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "interessant",
+      "translation": "interesting",
+      "partOfSpeech": "adjective",
+      "opposite": "langweilig",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "langweilig",
+      "translation": "boring",
+      "partOfSpeech": "adjective",
+      "opposite": "interessant",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Ich möchte ein Zimmer reservieren.",
+      "translation": "I would like to reserve a room.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Welche Sehenswürdigkeiten gibt es hier?",
+      "translation": "What tourist attractions are here?",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Haben Sie meinen Reisepass gesehen?",
+      "translation": "Have you seen my passport?",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Kann ich eine Unterkunft in der Nähe finden?",
+      "translation": "Can I find accommodation nearby?",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Können Sie ein gutes Restaurant empfehlen?",
+      "translation": "Can you recommend a good restaurant?",
+      "partOfSpeech": "phrase",
+      "register": "formal",
+      "cefrLevel": "A2"
+    }
+  ]
+  

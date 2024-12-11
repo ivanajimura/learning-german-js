@@ -1,0 +1,115 @@
+[
+    {
+      "word": "Einladung",
+      "translation": "invitation",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Missverständnis",
+      "translation": "misunderstanding",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Meinung",
+      "translation": "opinion",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "vorschlagen",
+      "translation": "to suggest",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat vorgeschlagen",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "ablehnen",
+      "translation": "to reject, decline",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat abgelehnt",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "zustimmen",
+      "translation": "to agree",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat zugestimmt",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "klären",
+      "translation": "to clarify",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat geklärt",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "offen",
+      "translation": "open-minded",
+      "partOfSpeech": "adjective",
+      "opposite": "verschlossen",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "verschlossen",
+      "translation": "reserved",
+      "partOfSpeech": "adjective",
+      "opposite": "offen",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "einverstanden",
+      "translation": "in agreement",
+      "partOfSpeech": "adjective",
+      "opposite": "uneinig",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "uneinig",
+      "translation": "not in agreement",
+      "partOfSpeech": "adjective",
+      "opposite": "einverstanden",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Ich lade dich zum Abendessen ein.",
+      "translation": "I invite you to dinner.",
+      "partOfSpeech": "phrase",
+      "register": "informal",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Wie wäre es mit einem Spaziergang?",
+      "translation": "How about a walk?",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Ich stimme dir zu.",
+      "translation": "I agree with you.",
+      "partOfSpeech": "phrase",
+      "register": "informal",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Entschuldigung, ich habe Sie falsch verstanden.",
+      "translation": "Sorry, I misunderstood you.",
+      "partOfSpeech": "phrase",
+      "register": "formal",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Könnten Sie das bitte klären?",
+      "translation": "Could you please clarify that?",
+      "partOfSpeech": "phrase",
+      "register": "formal",
+      "cefrLevel": "A2"
+    }
+  ]
+  

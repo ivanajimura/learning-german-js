@@ -1,0 +1,113 @@
+[
+    {
+      "word": "Klima",
+      "translation": "climate",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Sturm",
+      "translation": "storm",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Wolke",
+      "translation": "cloud",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Recycling",
+      "translation": "recycling",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Verschmutzung",
+      "translation": "pollution",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "recyceln",
+      "translation": "to recycle",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat recycelt",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "vorhersagen",
+      "translation": "to predict, forecast",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat vorhergesagt",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "umweltfreundlich",
+      "translation": "environmentally friendly",
+      "partOfSpeech": "adjective",
+      "opposite": "umweltschädlich",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "umweltschädlich",
+      "translation": "harmful to the environment",
+      "partOfSpeech": "adjective",
+      "opposite": "umweltfreundlich",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "stürmisch",
+      "translation": "stormy",
+      "partOfSpeech": "adjective",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "bewölkt",
+      "translation": "cloudy",
+      "partOfSpeech": "adjective",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Das Klima hier ist mild.",
+      "translation": "The climate here is mild.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Es wird morgen stürmisch.",
+      "translation": "It will be stormy tomorrow.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Wie können wir die Verschmutzung reduzieren?",
+      "translation": "How can we reduce pollution?",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Bitte recyceln Sie Ihre Plastikflaschen.",
+      "translation": "Please recycle your plastic bottles.",
+      "partOfSpeech": "phrase",
+      "register": "formal",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Die Vorhersage sagt Regen voraus.",
+      "translation": "The forecast predicts rain.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A2"
+    }
+  ]
+  

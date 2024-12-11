@@ -1,0 +1,136 @@
+[
+    {
+      "word": "Krankenhaus",
+      "translation": "hospital",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Rezept",
+      "translation": "prescription",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Thermometer",
+      "translation": "thermometer",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Salbe",
+      "translation": "ointment",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Blutdruck",
+      "translation": "blood pressure",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Übelkeit",
+      "translation": "nausea",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "untersuchen",
+      "translation": "to examine",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat untersucht",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "behandeln",
+      "translation": "to treat",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat behandelt",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "verschreiben",
+      "translation": "to prescribe",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat verschrieben",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "sich erholen",
+      "translation": "to recover",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat sich erholt",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "fit",
+      "translation": "fit",
+      "partOfSpeech": "adjective",
+      "opposite": "unfit",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "unfit",
+      "translation": "unfit",
+      "partOfSpeech": "adjective",
+      "opposite": "fit",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "entspannt",
+      "translation": "relaxed",
+      "partOfSpeech": "adjective",
+      "opposite": "gestresst",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "gestresst",
+      "translation": "stressed",
+      "partOfSpeech": "adjective",
+      "opposite": "entspannt",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Haben Sie ein Rezept vom Arzt?",
+      "translation": "Do you have a prescription from the doctor?",
+      "partOfSpeech": "phrase",
+      "register": "formal",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Ich brauche eine Salbe für die Haut.",
+      "translation": "I need an ointment for the skin.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Könnten Sie meinen Blutdruck messen?",
+      "translation": "Could you measure my blood pressure?",
+      "partOfSpeech": "phrase",
+      "register": "formal",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Der Arzt hat mir Tabletten verschrieben.",
+      "translation": "The doctor prescribed me tablets.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A2"
+    },
+    {
+      "word": "Ich erhole mich von der Grippe.",
+      "translation": "I am recovering from the flu.",
+      "partOfSpeech": "phrase",
+      "register": "neutral",
+      "cefrLevel": "A2"
+    }
+  ]
+  
