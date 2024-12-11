@@ -14,10 +14,10 @@
       "cefrLevel": "A1"
     },
     {
-      "word": "Lehrerin",
-      "translation": "teacher (female)",
-      "partOfSpeech": "noun",
-      "gender": "die",
+      "word": "lernen",
+      "translation": "study",
+      "partOfSpeech": "verb",
+      "perfekt": "gelernt",
       "cefrLevel": "A1"
     },
     {

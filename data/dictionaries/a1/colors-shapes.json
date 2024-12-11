@@ -6,6 +6,19 @@
       "cefrLevel": "A1"
     },
     {
+      "word": "Kreis",
+      "translation": "circle",
+      "partOfSpeech": "der",
+      "cefrLevel": "A1"
+    },
+    {
+      "word": "malen",
+      "translation": "paint",
+      "partOfSpeech": "verb",
+      "perfektForm": "hat gemalt",
+      "cefrLevel": "A1"
+    },
+    {
       "word": "blau",
       "translation": "blue",
       "partOfSpeech": "adjective",
