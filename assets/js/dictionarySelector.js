@@ -50,8 +50,11 @@ function populateDropdown(dictionaryJson) {
         currentDictionaryElement.innerHTML = `Dictionary in use: ${selectedOption.text}`;
         
         const dictionary = await fetchDictionary(selectedOption.value);
-        const nouns = await getNouns(dictionary);
+        nouns = await getNouns(dictionary);
         await loadNounGenderGame(nouns);
+
+        dictWithoutPhrases = await removePhrases(dictionary)
+        await loadTranslationDeEn(dictWithoutPhrases)
     });
 }
 
