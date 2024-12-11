@@ -1,4 +1,15 @@
 [
+    
+    {
+        "name": "Clothing and Fashion",
+        "level": "A1",
+        "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a1/clothing-fashion.json"
+    },
+    {
+        "name": "Colors and Shapes",
+        "level": "A1",
+        "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a1/colors-shapes.json"
+    },
     {
         "name": "Daily Activities",
         "level": "A1",
@@ -15,6 +26,16 @@
         "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a1/food-drink.json"
     },
     {
+        "name": "Free Time and Hobbies",
+        "level": "A1",
+        "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a1/free-time-hobbies.json"
+    },
+    {
+        "name": "Health",
+        "level": "A1",
+        "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a1/health.json"
+    },
+    {
         "name": "Home and Living",
         "level": "A1",
         "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a1/home-living.json"
@@ -23,56 +44,6 @@
         "name": "Introductions",
         "level": "A1",
         "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a1/introductions.json"
-    },
-    {
-        "name": "Shopping and Clothing",
-        "level": "A1",
-        "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a1/shopping-clothing.json"
-    },
-    {
-        "name": "Shopping and Prices",
-        "level": "A1",
-        "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a1/shopping-prices.json"
-    },
-    {
-        "name": "Travel and Transport",
-        "level": "A1",
-        "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a1/travel-transport.json"
-    },
-    {
-        "name": "Work and Professions",
-        "level": "A1",
-        "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a1/work-professions.json"
-    },
-    {
-        "name": "Time and Dates",
-        "level": "A1",
-        "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a1/time-dates.json"
-    },
-    {
-        "name": "Weather",
-        "level": "A1",
-        "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a1/weather.json"
-    },
-    {
-        "name": "Health",
-        "level": "A1",
-        "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a1/health.json"
-    },
-    {
-        "name": "Free Time and Hobbies",
-        "level": "A1",
-        "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a1/free-time-hobbies.json"
-    },
-    {
-        "name": "Colors and Shapes",
-        "level": "A1",
-        "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a1/colors-shapes.json"
-    },
-    {
-        "name": "Clothing and Fashion",
-        "level": "A1",
-        "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a1/clothing-fashion.json"
     },
     {
         "name": "Numbers",
@@ -90,9 +61,51 @@
         "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a1/school-education.json"
     },
     {
+        "name": "Shopping and Clothing",
+        "level": "A1",
+        "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a1/shopping-clothing.json"
+    },
+    {
+        "name": "Shopping and Prices",
+        "level": "A1",
+        "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a1/shopping-prices.json"
+    },
+    {
         "name": "Social Interactions",
         "level": "A1",
         "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a1/social-interactions.json"
+    },
+    {
+        "name": "Time and Dates",
+        "level": "A1",
+        "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a1/time-dates.json"
+    },
+    {
+        "name": "Travel and Transport",
+        "level": "A1",
+        "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a1/travel-transport.json"
+    },
+    {
+        "name": "Weather",
+        "level": "A1",
+        "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a1/weather.json"
+    },
+    {
+        "name": "Work and Professions",
+        "level": "A1",
+        "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a1/work-professions.json"
+    },
+    
+    
+    {
+        "name": "Food and Drinks",
+        "level": "A2",
+        "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a2/food-drinks.json"
+    },
+    {
+        "name": "Health",
+        "level": "A2",
+        "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a2/health.json"
     },
     {
         "name": "Personal Information",
@@ -100,7 +113,7 @@
         "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a2/personal-information.json"
     },
     {
-        "name": "Daily Routine and Chores",
+        "name": "Routine and Chores",
         "level": "A2",
         "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a2/routine-chores.json"
     },
@@ -115,18 +128,18 @@
         "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a2/Shopping and Services.json"
     },
     {
+        "name": "Social Interactions and Relationships",
+        "level": "A2",
+        "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a2/social-relationships.json"
+    },
+    {
+        "name": "Travel and Holidays",
+        "level": "A2",
+        "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a2/travel-holidays.json"
+    },
+    {
         "name": "Work and Professions",
         "level": "A2",
         "path": "https://raw.githubusercontent.com/ivanajimura/learning-german-js/refs/heads/main/data/dictionaries/a2/work-professions.json"
-    }
-
-
-
-
-
-
-
-
-
-    
+    } 
 ]
