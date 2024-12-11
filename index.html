@@ -21,28 +21,35 @@
 <body>
     <main class="main">
         <header class="header">
-            <h1 class="title">
-                <span id="game.title" class="game.title">Noun Genders</span>
-            </h1>
+            <div id="game.dictionary" class="game.dictionary">
+                <span>Loading...</span>
+            </div>
         </header>
 
-        <div id="game.dictionary" class="game.dictionary">
-            <span>Loading...</span>
-        </div>
-
-        
-
         <div class="gender.area">
+            <h1 class="title">
+                <span id="game.genderTitle" class="game.title">Noun Genders - der, die, das?</span>
+            </h1>
             <input id="genderInput" type="text" name="gender">
             <label id="nounText" for="noun">Loading...</label>
             <input id="genderSubmit" type="submit" value="Check">
             <input id="restartGenderButton" type="submit" value="Another!">
-        </div>
-        <div class="game.feedback">
-            <span id="feedbackText"></span>
+            <br>
+            <span id="genderFeedbackText"></span>
         </div>
 
         
+        <div class="translation.area">
+            <h1 class="title">
+                <span id="game.translationDe-EnTitle" class="game.title">Translate to English</span>
+            </h1>
+            <input id="englishInput" type="text" name="englishTranslation">
+            <label id="wordText" for="word">Loading...</label>
+            <input id="englishSubmit" type="submit" value="Check">
+            <input id="restartTranslationDeEnButton" type="submit" value="Another!">
+            <br>
+            <span id="translationDeEnFeedbackText"></span>
+        </div>
 
         <footer>
         </footer>
@@ -52,6 +59,7 @@
     <script src="assets/js/dictionarySelector.js"></script>
     <script src="assets/js/jsonParser.js"></script>
     <script src="assets/js/challenges/nounGender.js"></script>
+    <script src="assets/js/challenges/translationDeEn.js"></script>
     <script src="assets/js/main.js"></script>
 
 

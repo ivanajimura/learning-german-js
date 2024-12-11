@@ -3,7 +3,7 @@ function loadNounGenderGame(dictionary){
     
     const nounElement = document.getElementById('nounText')
     const textInputElement = document.getElementById('genderInput')
-    const feedbackElement = document.getElementById('feedbackText')
+    const feedbackElement = document.getElementById('genderFeedbackText')
     const checkButtonElement = document.getElementById('genderSubmit')
     const anotherButtonElement = document.getElementById('restartGenderButton')
 
@@ -13,6 +13,13 @@ function loadNounGenderGame(dictionary){
     textInputElement.addEventListener('keypress', function(event) {
         if (event.key === "Enter"){
             checkButtonElement.click()
+        }
+    })
+
+    anotherButtonElement.addEventListener('click', loadNewWord)
+    textInputElement.addEventListener('keydown', function(event) {
+        if (event.key === "Escape"){
+            anotherButtonElement.click()
         }
     })
 
@@ -27,9 +34,8 @@ function loadNounGenderGame(dictionary){
         }
     }
 
-    anotherButtonElement.addEventListener('click', loadNewWord)
-
     function loadNewWord(){
+        feedbackElement.innerText = ''
         randomJSON = randomFilter(dictionary, quantity)
         try{
             nounElement.innerText = randomJSON[0]['word']

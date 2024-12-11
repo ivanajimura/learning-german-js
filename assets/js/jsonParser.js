@@ -29,3 +29,9 @@ function randomFilter(jsonFile, quantity = 1){
     
     return randomJson
 }
+
+function removePhrases(jsonFile){
+    return jsonFile
+    .map(item => (!(item.partOfSpeech === 'phrase') ? item : null))
+    .filter(item => item !== null) // remove null entries
+}
